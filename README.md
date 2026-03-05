@@ -1,72 +1,87 @@
-<!-- PROFILE README generated + customized via GPRM -->
+# Hi 👋 I'm Krish Patel
 
-<h1 align="center">Hi, I'm Krish 👋</h1>
-<h3 align="center">Cybersecurity-focused Computer Science student | Grad Aug 2026 | Canada</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
-</p>
+🎓 Computer Science Student at Algoma University (Graduating Aug 2026)
+🔐 Passionate about Cybersecurity, Cloud Security, and Detection Engineering
+📍 Based in Canada
 
 ---
 
-## 🚀 About Me
-- 🎓 BSc Computer Science @ Algoma University (**Graduating Aug 2026**)
-- 🔐 Interested in **SOC / IR, IAM, Cloud Security, SIEM, Vulnerability Management**
-- 🧪 Building hands-on labs: **AD + Wazuh SIEM + Sysmon**, **AWS Secure VPC**, **Nessus VM**
-- 📌 Goal: land a **new-grad cybersecurity / technology risk** role in Canada
+# 💫 About Me
+
+🔭 **Currently working on**
+
+* Python **Cloud Security Automation scripts**
+* Expanding my **Active Directory + Wazuh SIEM detection lab**
+* Building **cybersecurity monitoring and detection projects**
+
+👯 **Looking to collaborate on**
+
+* Cybersecurity labs and **detection engineering projects**
+* **SIEM / SOC automation tools**
+* Open-source **security or cloud security projects**
+
+🤝 **Looking for help with**
+
+* **MITRE ATT&CK detection engineering**
+* **Python security automation**
+* Improving **SOC monitoring pipelines**
+
+🌱 **Currently learning**
+
+* Python scripting for **security automation**
+* **AWS cloud security monitoring**
+* **Threat detection & incident response workflows**
+
+💬 **Ask me about**
+
+* Active Directory **security monitoring**
+* **Wazuh SIEM implementation**
+* **Nessus vulnerability scanning**
+* **Cloud security architecture**
+
+⚡ **Fun fact**
+
+I enjoy building **enterprise-style cybersecurity labs** and documenting them like real security investigations.
 
 ---
 
-## 🧩 Featured Projects
-### 🛡️ Active Directory + Wazuh SIEM (Sysmon + MITRE Mapping)
-- Built an enterprise-style lab with log collection, detection, and analysis
-- Documented with screenshots + report + detection notes  
-🔗 Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+# 🔥 Featured Projects
 
-### ☁️ AWS Secure Cloud VPC (Hardening + Monitoring)
-- Custom VPC with segmented subnets, least-privilege IAM, CloudWatch + Flow Logs  
-🔗 Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+### 🛡 Active Directory + Wazuh SIEM Detection Lab
 
-### 🔎 Nessus Vulnerability Management Report
-- Baseline + credentialed scans, CVSS analysis, remediation recommendations  
-🔗 Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+Enterprise-style SOC lab integrating Active Directory, Sysmon, and Wazuh for centralized log monitoring and threat detection.
 
----
+### ☁ AWS Secure Cloud VPC
 
-## 🛠️ Skills
-**Security & GRC:** IAM, Incident Response, Risk & Controls, Vulnerability Mgmt, SIEM  
-**Tools:** Wazuh, Sysmon, Nessus, Windows Server, Active Directory, AWS, Git  
-**Concepts:** MITRE ATT&CK, Least Privilege, Logging & Monitoring, Hardening  
-**Languages:** Python, Java, Bash (add/remove as needed)
+Designed and implemented a secure AWS environment with custom VPC architecture, subnet segmentation, and monitoring using CloudWatch and VPC Flow Logs.
+
+### 🔎 Nessus Vulnerability Management Lab
+
+Performed baseline and credentialed vulnerability scans using Nessus Essentials and documented findings with CVSS analysis and remediation recommendations.
 
 ---
 
-## 📜 Certifications
-- ISC2 Certified in Cybersecurity (CC)
-- Fortinet Level 1–3 + Fundamentals of Cybersecurity
-- PwC Cybersecurity Consulting (Virtual Exp)
-- TATA Cybersecurity (IAM) (Virtual Exp)
+# 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/krish-patel
+* 📧 Email: [vp1461976@gmail.com](mailto:your-email@example.com)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160"/>
-</p>
+# 💻 Tech Stack
+
+Python • Java • Bash • PowerShell
+AWS • Linux • Git • GitHub
+Splunk • MySQL • Postman
 
 ---
 
-## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" height="180"/>
-</p>
+# 📊 GitHub Stats
+
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
 
 ---
 
-## 📫 Let’s connect
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: YOUR_EMAIL
+⭐ **Always learning and building new cybersecurity labs**
