@@ -1,18 +1,72 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Python Cloud Security Automation scripts<br><br>Expanding my Active Directory + Wazuh SIEM detection lab<br><br>Building more cybersecurity detection & monitoring projects for my GitHub portfolio<br><br>👯 I’m looking to collaborate on<br><br>Cybersecurity labs and detection engineering projects<br><br>SIEM / SOC automation tools<br><br>Open-source security or cloud security projects<br><br>🤝 I’m looking for help with<br><br>Advanced detection engineering (MITRE ATT&CK mapping)<br><br>Security automation using Python<br><br>Improving SOC monitoring and threat detection pipelines<br><br>🌱 I’m currently learning<br><br>Python scripting for cybersecurity automation<br><br>Cloud security monitoring in AWS<br><br>Threat detection & incident response workflows<br><br>💬 Ask me about<br><br>Active Directory security & monitoring<br><br>SIEM implementation with Wazuh<br><br>Vulnerability scanning with Nessus<br><br>Cloud security architecture<br><br>⚡ Fun fact<br><br>I enjoy building realistic cybersecurity labs that simulate enterprise environments and documenting them like real security investigations.
+<!-- PROFILE README generated + customized via GPRM -->
 
+<h1 align="center">Hi, I'm Krish 👋</h1>
+<h3 align="center">Cybersecurity-focused Computer Science student | Grad Aug 2026 | Canada</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishpatel_03._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krish Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vp1461976@gmai.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krishcyber2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krishcyber2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishcyber2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Krishcyber2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 BSc Computer Science @ Algoma University (**Graduating Aug 2026**)
+- 🔐 Interested in **SOC / IR, IAM, Cloud Security, SIEM, Vulnerability Management**
+- 🧪 Building hands-on labs: **AD + Wazuh SIEM + Sysmon**, **AWS Secure VPC**, **Nessus VM**
+- 📌 Goal: land a **new-grad cybersecurity / technology risk** role in Canada
+
+---
+
+## 🧩 Featured Projects
+### 🛡️ Active Directory + Wazuh SIEM (Sysmon + MITRE Mapping)
+- Built an enterprise-style lab with log collection, detection, and analysis
+- Documented with screenshots + report + detection notes  
+🔗 Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+
+### ☁️ AWS Secure Cloud VPC (Hardening + Monitoring)
+- Custom VPC with segmented subnets, least-privilege IAM, CloudWatch + Flow Logs  
+🔗 Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+
+### 🔎 Nessus Vulnerability Management Report
+- Baseline + credentialed scans, CVSS analysis, remediation recommendations  
+🔗 Repo: https://github.com/YOUR_USERNAME/REPO_LINK
+
+---
+
+## 🛠️ Skills
+**Security & GRC:** IAM, Incident Response, Risk & Controls, Vulnerability Mgmt, SIEM  
+**Tools:** Wazuh, Sysmon, Nessus, Windows Server, Active Directory, AWS, Git  
+**Concepts:** MITRE ATT&CK, Least Privilege, Logging & Monitoring, Hardening  
+**Languages:** Python, Java, Bash (add/remove as needed)
+
+---
+
+## 📜 Certifications
+- ISC2 Certified in Cybersecurity (CC)
+- Fortinet Level 1–3 + Fundamentals of Cybersecurity
+- PwC Cybersecurity Consulting (Virtual Exp)
+- TATA Cybersecurity (IAM) (Virtual Exp)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160"/>
+</p>
+
+---
+
+## 🔥 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" height="180"/>
+</p>
+
+---
+
+## 📫 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: YOUR_EMAIL
